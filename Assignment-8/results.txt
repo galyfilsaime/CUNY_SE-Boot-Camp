@@ -1,0 +1,121 @@
+ actor_count 
+-------------
+          55
+(1 row)
+
+ highest_domestic | lowest_domestic 
+------------------+-----------------
+            659.2 |             0.3
+(1 row)
+
+ total_length 
+--------------
+         2184
+(1 row)
+
+ japanese_director_count 
+-------------------------
+                       3
+(1 row)
+
+      avg_length      
+----------------------
+ 121.8000000000000000
+(1 row)
+
+ nationality  | director_count 
+--------------+----------------
+ Chinese      |              4
+ American     |             16
+ Japanese     |              3
+ Australian   |              1
+ German       |              1
+ Mexican      |              1
+ Brazilian    |              2
+ French       |              1
+ British      |              6
+ Swedish      |              1
+ South Korean |              1
+(11 rows)
+
+ age_certificate | movie_lang | total_length 
+-----------------+------------+--------------
+ 15              | Swedish    |          128
+ PG              | English    |         1364
+ 18              | Portuguese |          145
+ PG              | Spanish    |           98
+ 18              | Korean     |          130
+ 18              | Japanese   |          219
+ 15              | Chinese    |          113
+ 15              | Portuguese |          140
+ U               | English    |          393
+ 12              | English    |          929
+ U               | Japanese   |          227
+ 18              | English    |          500
+ 15              | German     |          165
+ 12              | Chinese    |          496
+ 15              | English    |         1638
+(15 rows)
+
+ movie_lang | total_length 
+------------+--------------
+ Chinese    |          609
+ English    |         4824
+(2 rows)
+
+ first_name |  last_name   
+------------+--------------
+ Adrien     | Brody
+ Bill       | Murray
+ Brian      | Cox
+ Edward     | Norton
+ Jason      | Schwartzmann
+ Jeff       | Goldblum
+ Jude       | Law
+ Luke       | Wilson
+ Mason      | Gamble
+ Olivia     | Williams
+ Owen       | Wilson
+ Ralph      | Fiennes
+ Saoirse    | Ronan
+ Tilda      | Swinton
+ Tony       | Revolori
+ Willem     | Dafoe
+(16 rows)
+
+ first_name | last_name | date_of_birth 
+------------+-----------+---------------
+ Clark      | Gable     | 1901-02-01
+ Vivien     | Leigh     | 1913-11-05
+(2 rows)
+
+           movie_name           | movie_length | age_certificate 
+--------------------------------+--------------+-----------------
+ Apocalypse Now                 |          168 | 15
+ City of God                    |          145 | 18
+ City of Men                    |          140 | 15
+ Crouching Tiger Hidden Dragon  |          139 | 12
+ Eyes Wide Shut                 |          130 | 18
+ Gladiator                      |          165 | 15
+ Gone with the Wind             |          123 | PG
+ Goodfellas                     |          148 | 15
+ House of Flying Daggers        |          134 | 12
+ Jaws                           |          134 | 12
+ Life of Pi                     |          129 | PG
+ Oldboy                         |          130 | 18
+ Ponyo                          |          107 | U
+ Raging Bull                    |          132 | 18
+ Spirited Away                  |          120 | U
+ Star Wars: A New Hope          |          123 | PG
+ Star Wars: Empire Strikes Back |          150 | PG
+ Star Wars: Return of the Jedi  |          139 | PG
+ The Fifth Element              |          149 | 12
+ The Lives of Others            |          165 | 15
+ The Shining                    |          126 | 18
+ The Wizard of Oz               |          120 | U
+ There Will Be Blood            |          168 | 15
+ Titanic                        |          143 | 12
+ V for Vendetta                 |          140 | 12
+ Watchmen                       |          138 | 12
+(26 rows)
+
